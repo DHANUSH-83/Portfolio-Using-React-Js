@@ -11,6 +11,7 @@ function App() {
   return (
     <div >
       <section id="home">
+        <h1>asdasd</h1>
         <Home />
       </section>
       <section id="about">
